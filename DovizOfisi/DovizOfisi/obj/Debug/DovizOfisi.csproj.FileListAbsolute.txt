@@ -1,0 +1,11 @@
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.exe.config
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.pdb
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.AssemblyReference.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.Form1.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.Properties.Resources.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.GenerateResource.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.CoreCompileInputs.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.pdb
